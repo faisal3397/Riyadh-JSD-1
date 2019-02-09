@@ -9,7 +9,14 @@
 // 1. Suppose that we wanted to create a browser-based calendar program for keeping track of things. In comments, list at least three reasonable abstractions that you might use to build this program; for each abstraction, list out at least two properties and behaviors that it would make sense for that abstraction to have. Below is an example - please write your answer in the same format.
 
 
-  // 'Tasks'
+ 
+
+
+
+
+
+// Answer Starts Here
+ // 'Tasks'
   // Description: Since our program keeps track of things we need taks to keep track of.
   // Every 'task' has
   // - a date
@@ -42,13 +49,6 @@
   // Every 'date' can
   // - be assigned an event
   // - be assigned a task
-
-
-
-
-
-// Answer Starts Here
-
 // Answer Ends Here
 
 // 2. Create an Object literal that lines up with the following description. Store it in the variable 'pet_owner', below. Be sure to give it reasonable values for each of its properties.
